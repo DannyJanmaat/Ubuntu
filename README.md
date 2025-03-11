@@ -2,8 +2,6 @@
 
 Een grafische configuratietool voor Ubuntu-systemen met een moderne YAD-interface.
 
-![Ubuntu Setup Tool](screenshot.png)
-
 ## Functies
 
 - **Systeemupdate**: Update en upgrade je systeem
